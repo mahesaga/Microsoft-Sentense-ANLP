@@ -1,1 +1,1 @@
-# Microsoft-Sentense-ANLP
+# Microsoft-Sentense Completion-ANLP
